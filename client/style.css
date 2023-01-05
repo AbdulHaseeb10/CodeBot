@@ -11,9 +11,22 @@ body {
   background: #343541;
 }
 
+h1{
+  color: #fff;
+}
+
+img, h1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.heading{
+  text-align: center;
+}
+
 #app {
   width: 100vw;
-  height: 100vh;
+  height: 85vh;
   background: #343541;
 
   display: flex;
