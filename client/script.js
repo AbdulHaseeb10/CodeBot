@@ -77,7 +77,7 @@ const handleSubmit = async (e) => {
 
   //fetch data from sever -> bot's response
 
-  const response = await fetch("https://codebot-88h6.onrender.com", {
+  const response = await fetch("https://codebot-67mk.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
